@@ -5,3 +5,4 @@
 # The "SiAOD#2" folder contains files with lab work number 2 (part of the work), programming tasks(4 of 6)
 # Update the "SiAOD#2": added the second part of the work on rehashing
 # The "SiAOD#4" folder contains a laboratory for working with the stack and deque
+# The "SiAOD#3" folder contains a programs for searching for a substring in a string
